@@ -1,0 +1,2 @@
+Maria,20,Plano B
+Pietro,30,Plano C
